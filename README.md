@@ -8,3 +8,7 @@ Also, I showed this off for my extended family at Thanksgiving. There were tons 
 ## 2017 Update
 I still wear this cape when I get a chance. It's holding up nicely. I have changed the batteries.
 When my dad took a new job I wore it to a company party we were invited to and was excited to share what I learned making it.
+
+## Feature Roadmap
+- Add sound
+- Link with your magic wand
